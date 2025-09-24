@@ -2,7 +2,9 @@
 
 Welcome to this repository! This is repository stores the source code for the web application "Telepathy".
 
-## Install Dependencies for Development
+## Run in Local Machine
+
+Obviously, run client and server in different terminals!
 
 ### Client
 - Install dependencies within `package.json`: 
@@ -15,7 +17,7 @@ npm install
 npm run dev
 ```
 
-### Server:
+### Server
 - Install <a href="https://github.com/air-verse/air">Air - Live reload for Go apps</a>
 - Install dependecies within `go.mod`:
 ``` bash
